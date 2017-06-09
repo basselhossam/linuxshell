@@ -7,6 +7,8 @@ also there is an implentation for shell ```cd``` command.
 
 also there is auto-complete for file names using tab.
 
+also there is a C++ ```vector``` that save old commands.
+
 ## usage
 you need to downlad the cpp file and compile it.
 ```sh
